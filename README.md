@@ -11,6 +11,6 @@ This portfolio contains a bunch of recursion programs to demonsrate to the Rosem
         
         - Recursion Tree
         
-        - Polar Equations
+        - Using Recursion to create terrain
         
-        - Using Recursion for your own projects (Music, Bezier, Lightning, Mountains, Beaches, Double Helix, Water Droplets, ect... ) 
+        - Using Recursion for your own projects (Music, Bezier, Lightning, Double Helix, Water Droplets, ect... ) 
